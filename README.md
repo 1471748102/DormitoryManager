@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## DormitorySystem 
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-brightgreen.svg) ![Java](https://img.shields.io/badge/Java-1.8-blue.svg) ![Database](https://img.shields.io/badge/Database-MySQL-lightgrey.svg) 
 - 毕业设计💼
@@ -19,5 +20,3 @@
 ![dorm1](http://image.zxkidea.top/dorm3.png)
 
 ![dorm1](http://image.zxkidea.top/dorm4.png)
-
-
